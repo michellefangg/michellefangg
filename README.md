@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🎨 In my free time, I love exploring and improving my art, whether it’s traditional sketches or digital design.
 ---
 
-## 🔧 Skills & Tools  
+### 🔧 Skills & Tools  
 - **Data Analysis**: R, Python, SQL, Excel  
 - **Visualization**: Power BI, Tableau  
 - **Math & Stats**: Regression models, ANOVA, Complex Analysis
