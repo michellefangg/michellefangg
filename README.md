@@ -1,5 +1,3 @@
-## Hi, I'm Michelle👋
-
 <!--
 **Michelle-Fang/Michelle-Fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
