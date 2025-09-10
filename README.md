@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Michelle👋
 
 <!--
 **Michelle-Fang/Michelle-Fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Michelle 👋  
+
+🎓 I’m an undergraduate student at the **University of Toronto**, studying **Mathematics & Statistics**.  
+I’m passionate about **data analysis, visualization, and analytics in HR & business contexts** and am currently learning **Power BI, Tableau, SQL, and Microsoft Access**, building interactive dashboards and analytics projects.  
+🎨 In my free time, I love exploring and improving my art, whether it’s traditional sketches or digital design.
+---
+
+## 🔧 Skills & Tools  
+- **Data Analysis**: R, Python, SQL, Excel  
+- **Visualization**: Power BI, Tableau  
+- **Math & Stats**: Regression models, ANOVA, Complex Analysis
