@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ### 🔧 Skills & Tools  
 - **Data Analysis**: R, Python, SQL, Excel  
-- **Visualization**: Power BI, Tableau  
+- **Visualization**: Power BI, Tableau, Excel
 - **Math & Stats**: Regression models, ANOVA, Complex Analysis
