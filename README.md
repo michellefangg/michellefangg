@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### 🔧 Skills & Tools  
+- **Data Analysis**: R, Python, SQL, Excel  
+- **Visualization**: Power BI, Tableau, Excel
+- **Math & Stats**: Regression models, ANOVA, Complex Analysis
 -->
 
 ### 🎓 I’m an undergraduate student at the **University of Toronto**, studying **Mathematics & Statistics**.  
@@ -19,7 +23,4 @@ Here are some ideas to get you started:
 - 🎨 In my free time, I love exploring and improving my artistic abilities, whether it’s through traditional sketches, painting, or digital design.
 ---
 
-### 🔧 Skills & Tools  
-- **Data Analysis**: R, Python, SQL, Excel  
-- **Visualization**: Power BI, Tableau, Excel
-- **Math & Stats**: Regression models, ANOVA, Complex Analysis
+
